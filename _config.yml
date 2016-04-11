@@ -1,7 +1,7 @@
 name: europe2014
 favicon: null
-layout_spectrum: 0.8517067122738808
-typography_spectrum: 0.30549167725257576
+layout_spectrum: 1
+typography_spectrum: 0.3922
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.05597245483659208
+  brandStrength: 0
   lightness: 0.20941875968128443
   saturation: 0.7069319386500865
   rhythmicContrast: 0.9052381468936801
