@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: The second part of my trip was in Slovakia
-datePublished: '2016-04-11T10:57:51.580Z'
-dateModified: '2016-04-11T10:56:21.902Z'
-title: ''
+datePublished: '2016-04-11T10:59:28.030Z'
+dateModified: '2016-04-11T10:58:01.407Z'
+title: Kriváň
 author: []
 authors: []
 publisher:
@@ -22,7 +22,7 @@ url: the-second-part-of-my-trip-was-in-slovakia/index.html
 _type: Article
 
 ---
-The second part of my trip was in Slovakia
+The second part of my trip was in Slovakia. There i ascended one of the national symbols of slovakia: Kriváň
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5d36ddf-6705-42d5-85ee-c96ce6736d9f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eabdd647-73ba-4e6b-a1a8-376cdd1fd9c1.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3fcce93-c045-462b-816c-9ee41a7c7a63.jpg)
