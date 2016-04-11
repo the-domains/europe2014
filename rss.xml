@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[europe2014]]></title>
         <description><![CDATA[europe2014]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/europe2014/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 10:51:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Apr 2016 10:58:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/europe2014/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3fcce93-c045-462b-816c-9ee41a7c7a63.jpg">]]></description>
+            <link>https://thegrid.ai/europe2014/the-second-part-of-my-trip-was-in-slovakia/index.html</link>
+            <guid isPermaLink="false">21969707-9ffc-4c32-888d-932eb2e32c28</guid>
+            <pubDate>Mon, 11 Apr 2016 10:57:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Prague]]></title>
             <description><![CDATA[<article><h1>Prague</h1><p>Prague July 2014</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf848d55-6cd7-4e97-85d1-5c66e8d5e784.jpg"></article>]]></description>
-            <link>undefinedprague/index.html</link>
+            <link>https://thegrid.ai/europe2014/prague/index.html</link>
             <guid isPermaLink="false">e40f1762-55c3-4ee5-bba2-5fdbac1bb131</guid>
             <pubDate>Mon, 11 Apr 2016 10:51:17 GMT</pubDate>
         </item>
