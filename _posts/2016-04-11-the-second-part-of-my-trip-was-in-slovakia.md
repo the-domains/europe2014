@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: The second part of my trip was in Slovakia
-datePublished: '2016-04-11T10:59:28.030Z'
-dateModified: '2016-04-11T10:58:01.407Z'
+description: "The second part of my trip was in Slovakia. There i ascended one of the national symbols of slovakia:\_Kriváň"
+datePublished: '2016-04-11T11:00:12.337Z'
+dateModified: '2016-04-11T10:59:53.835Z'
 title: Kriváň
 author: []
+sourcePath: _posts/2016-04-11-the-second-part-of-my-trip-was-in-slovakia.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-11-the-second-part-of-my-trip-was-in-slovakia.md
-published: true
 url: the-second-part-of-my-trip-was-in-slovakia/index.html
 _type: Article
 
